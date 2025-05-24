@@ -1,0 +1,2 @@
+# New Mordern website with HTML and CSS
+I will create a simple but modern and visually appealing blog site as a single HTML file with inline CSS. The blog will have a clean layout with a header, multiple blog posts, and a footer. Each post will have a title, date, author, and excerpt. The style will be modern, with a nice font, subtle shadows, spacing, and responsive layout to look good on different screen sizes. This will be purely static HTML and CSS
